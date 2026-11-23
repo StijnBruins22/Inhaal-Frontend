@@ -36,15 +36,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Ik ga twee pagina's namaken van [Werken bij Defensie](https://werkenbijdefensie.nl/). Ik vind de stoere huisstijl van deze site heel gaaf: de donkere achtergrond, de gele accentkleur en de grote koppen. De twee pagina's zijn een overzichtspagina en een detailpagina, waardoor er veel verschillende content in zit.
+
+  Mijn micro-interactie wordt de **Opslaan-knop met hartje** op de vacaturepagina.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepage – [werkenbijdefensie.nl](https://werkenbijdefensie.nl/)  
+  <img src="readme-images/home-mobiel.png" width="375px" alt="Homepage van Werken bij Defensie op een telefoon: hero met de kop Tijd voor Defensie en knoppen naar vacatures en opleidingen">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Vacature Korporaal Allround Monteur – [link](https://werkenbijdefensie.nl/vacatures/militaire-vacatures/korporaal-allround-monteur-e14502)  
+  <img src="readme-images/vacature-mobiel.png" width="375px" alt="Vacaturepagina Korporaal Allround Monteur op een telefoon: titel, lijstje met salaris, bonus, vrije dagen en locatie, en de knoppen Solliciteren en Opslaan">
  
 </details>
 
