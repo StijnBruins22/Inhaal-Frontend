@@ -54,11 +54,38 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details>
+<details open>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Ik heb de homepage en de vacaturepagina (Korporaal Allround Monteur) van werkenbijdefensie.nl getest met de WCAG checklist van FED. Ik heb getest in Chrome op mijn MacBook en met de telefoonweergave (iPhone SE).
+
+  **Wat goed gaat**
+  - Met **Tab** kan ik door de hele pagina en ik zie steeds waar ik ben.
+  - Er is een **skip link** ("Naar hoofdinhoud").
+  - De site werkt ook **liggend** op een telefoon.
+  - Op **200% zoom** is alles nog leesbaar en te gebruiken.
+  - Het **kleurcontrast** is goed: witte tekst op een donkere achtergrond en donkere tekst op de gele knoppen.
+  - De pagina's hebben `lang="nl"`, een **unieke title** en zoomen is niet uitgezet.
+  - De vacaturepagina houdt rekening met **prefers-reduced-motion**.
+
+  **Wat beter kan**
+  - De **homepage heeft geen h1**, alleen h2's. De vacaturepagina heeft wel één h1.
+  - **Alle afbeeldingen hebben een lege alt-tekst**, ook foto's die wel iets betekenen (zoals de kaarten Militair, Burger, enz.). Een screenreader slaat ze dan over.
+  - De **video bovenaan de homepage start vanzelf**. Er is wel een pauzeknop, maar geen ondertiteling.
+  - **Linkteksten zijn niet uniek**: "Bekijk vacatures" staat er 14 keer en "Ontdek meer" 12 keer. Met een screenreader weet je dan niet waar een link naartoe gaat.
+  - Op de vacaturepagina zijn een paar **"nep-knoppen"** (een div of span in plaats van een button).
+  - Links naar social media openen in een **nieuw tabblad** zonder dat dat wordt aangegeven.
+  - Er is **geen licht thema**: de site blijft altijd donker.
+  - De titel **"Tijd vo:or Defensie"** is lastig te lezen en een screenreader leest hem raar voor.
+
+  **Wat ik in mijn versie ga verbeteren**
+  - Eén duidelijke h1 op elke pagina.
+  - Beschrijvende alt-teksten bij foto's die iets betekenen.
+  - Duidelijke, unieke linkteksten (bijvoorbeeld "Bekijk vacatures Techniek").
+  - Echte `button`-elementen voor knoppen.
+  - Een licht én donker thema.
+  - De titel schrijf ik als gewone tekst ("Tijd voor Defensie") en ik maak alleen het effect met CSS.
 
 </details>
 
@@ -231,8 +258,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. [The A11Y Project – Checklist](https://www.a11yproject.com/checklist/) – gebruikt bij de toegankelijkheidstest.
+  2. [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) – kleurcontrast getest.
 
 </details>
