@@ -45,7 +45,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/home-mobiel.png" width="375px" alt="Homepage van Werken bij Defensie op een telefoon: hero met de kop Tijd voor Defensie en knoppen naar vacatures en opleidingen">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Vacature Korporaal Allround Monteur – [link](https://werkenbijdefensie.nl/vacatures/militaire-vacatures/korporaal-allround-monteur-e14502)  
+  Vacature Korporaal Allround Monteur – [werkenbijdefensie.nl/vacatures/.../korporaal-allround-monteur](https://werkenbijdefensie.nl/vacatures/militaire-vacatures/korporaal-allround-monteur-e14502)  
   <img src="readme-images/vacature-mobiel.png" width="375px" alt="Vacaturepagina Korporaal Allround Monteur op een telefoon: titel, lijstje met salaris, bonus, vrije dagen en locatie, en de knoppen Solliciteren en Opslaan">
  
 </details>
