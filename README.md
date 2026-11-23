@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Stijn Bruins
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauwe piste. Ik vind coderen lastig. Met hulp lukt het meestal wel. Omdat ik dit vak herkans, wil ik vooral zorgen dat de basis goed staat en dat ik mijn code goed begrijp.
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive. Ik wil dat mijn website goed werkt en er goed uitziet op alle schermen, van een kleine telefoon tot een groot beeldscherm. Als UX/UI-student vind ik het belangrijk     dat een site op elk apparaat prettig te gebruiken is.
  
 </details>
 
