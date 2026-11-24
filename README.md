@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Stijn Bruins
 
   #### Je startniveau:
-  Blauwe piste. Ik vind coderen lastig. Met hulp lukt het meestal wel. Omdat ik dit vak herkans, wil ik vooral zorgen dat de basis goed staat en dat ik mijn code goed begrijp.
+  Blauwe piste.
 
   #### Je focus:
-  Responsive. Ik wil dat mijn website goed werkt en er goed uitziet op alle schermen, van een kleine telefoon tot een groot beeldscherm. Als UX/UI-student vind ik het belangrijk     dat een site op elk apparaat prettig te gebruiken is.
+  Responsive. 
  
 </details>
 
