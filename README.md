@@ -93,17 +93,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Breakdownschets (week 1)
 
-<details>
+<details open>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  Homepage  
+  <img src="readme-images/breakdown-home.jpg" width="375px" alt="Screenshot van de homepage met de HTML-elementen aangegeven: header, main met hero, kaarten, interessegebieden als tabs, en footer.">
+
+  Vacaturepagina Korporaal Allround Monteur  
+  <img src="readme-images/breakdown-vacature.jpg" width="375px" alt="Screenshot van de vacaturepagina met de HTML-elementen aangegeven: hero met h1, lijst met voorwaarden en de knoppen Solliciteren en Opslaan, daarna secties met teamkaarten, uitklapblokken en het sollicitatieproces.">
+
+  ### detail van één kaart:
+  Teamkaart uit "Dit is je team" op de vacaturepagina  
+  <img src="readme-images/breakdown-kaart.jpg" width="375px" alt="Uitvergroting van de teamkaart van Maarten: ul met li en article, daarin img, een button om de video af te spelen, h3 met de naam en p met de functie. Onder de kaart de carousel-knoppen.">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  Het hamburgermenu (dicht en open)  
+  <img src="readme-images/breakdown-menu.jpg" width="375px" alt="Het hamburgermenu in twee toestanden: dicht met de menuknop in de header, en open met een sluitknop, het logo en een nav met een lijst van links met een knop voor een submenu.">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  De Opslaan-knop met hartje (mijn micro-interactie)  
+  <img src="readme-images/breakdown-opslaan.png" width="375px" alt="Breakdown van de Opslaan-knop in vier toestanden: standaard, focus, opgeslagen met gevuld hartje, en weer terug.">
 
 </details>
 
